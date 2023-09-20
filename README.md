@@ -1,4 +1,4 @@
-# Perguntas-Filoficas
+# Perguntas-Filosoficas
 prototipo de site sobre perguntas filosoficas 
 
 ## Questões para iniciar a reflexão ###
