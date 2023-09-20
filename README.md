@@ -1,5 +1,5 @@
 # Perguntas-Filosoficas
 prototipo de site sobre perguntas filosoficas 
 
-## Questões para iniciar a reflexão ###
-O que é a verdade e como podemos conhecê-la?
+## Quem está desenvolvendo este projeto? ###
+Professora Renata Luiza Wlodkowski, da cidade de Foz do Iguaçu-PR.
